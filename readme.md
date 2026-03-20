@@ -1,4 +1,4 @@
-# H1 Reflections of the project
+# Reflections of the project
 
 1. How did array methods like `push()` and `filter()` help you manipulate data in this activity?
 
